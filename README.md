@@ -47,7 +47,7 @@ This project was developed as part of a learning exercise to understand basic ga
 
 ## Authors
 
-- [Hamudi Hasan Sonet] (https://github.com/HamudiHasan)
+- [Hamudi Hasan Sonet](https://github.com/HamudiHasan)
 - Fairooz Maliha Rahman
 - Supta Bhowmick	
 
