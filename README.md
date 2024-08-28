@@ -45,6 +45,14 @@ The game uses several bitmap images (.bmp) for backgrounds and characters.
 
 This project was developed as part of a learning exercise to understand basic game development and graphics programming in C.
 
+## Authors
+
+- Hamudi Hasan Sonet
+- Fairooz Maliha Rahman
+- Supta Bhowmick	
+
+
+
 ### License
 Feel free to use this code for educational purposes.
 
